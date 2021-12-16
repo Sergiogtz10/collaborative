@@ -1,5 +1,7 @@
-img {
+.rounded-imgs {
     border-radius: 50%;
+    width: 250px;
+    height: 250px;
 }
 
 
@@ -19,18 +21,12 @@ img {
            
   }
 
-  h1{ 
+ .header-text-one{ 
       font-size: 100px;
       
 
   }
 
-  h2{ 
+ .header-text-two{ 
       font-size: 75px;
-
   }
-<<<<<<< HEAD
-=======
-
-  
->>>>>>> main
